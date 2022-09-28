@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">p67S21202202SGM</string>
+    <string name="tesoem">tecnologico del oriente del estado de mexico</string>
+    <string name="titulop">menu de opciones</string>
+    <string name="titulosuma">suma</string>
+    <string name="numero1">ingrese el primer numero</string>
+    <string name="numero2">ingrese el segundo numero</string>
+    <string name="btncalcular">calcular</string>
+    <string name="hintnum1">numero 1</string>
+
+    <string name="hintnum2">numero 2</string>
+    <string name="resultado">resultado  </string>
+    <string name="regresar">regresar</string>
+    <string name="sumar">sumar</string>
+    <string name="num1">1</string>
+    <string name="num2">Name</string>
+    <string name="multiplicacion">multiplicacion</string>
+    <string name="resta">resta</string>
+    <string name="divicion">divicion</string>
+    <string name="rest">RESTA</string>
+</resources>
